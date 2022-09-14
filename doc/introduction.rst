@@ -4,8 +4,8 @@ Introduction
 ============
 
 Version 4.0 introduces the recording of intake related activity (including
-activity for the Head to Health and AMHC programmes) in the PMHC MDS as part
-of the core  specification.
+activity for the Head to Health and AMHC programmes) in the PMHC MDS (Primary 
+Mental Health Care Minimum Data Set) as part of the core specification.
 
 The new version 4 specification comprises 4 entirely new tables, and the
 revised collection occasion/measure tables that have been included in the
